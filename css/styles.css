@@ -467,7 +467,8 @@ body {
 
   .options-group {
     display: flex;
-    flex-wrap: wrap; }
+    flex-wrap: wrap;
+    margin-left: 70px; }
 
   .options-group__single {
     width: 33%; } }
